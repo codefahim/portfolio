@@ -60,3 +60,27 @@ section {
 .ex {
     margin-left: 7%;
 }
+
+.experiences {
+    box-shadow: 10px 10px 40px gray;
+    height: 80%;
+    border-radius: 10px;
+}
+
+.exp-area {
+    background-image: url("images/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightSalmon, Tomato);
+    border-image-slice: 1;
+}
+
+#exp {
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
