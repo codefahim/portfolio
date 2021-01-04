@@ -12,6 +12,10 @@ h1 {
     font-size: 50px;
 }
 
+h2 {
+    font-size: 40px;
+}
+
 .name-color {
     color: orange;
 }
@@ -27,7 +31,7 @@ h1 {
     width: 100%;
 }
 
-.half-width a {
+.link {
     text-decoration: none;
     color: white;
     font-weight: 700;
@@ -44,4 +48,11 @@ h1 {
 
 section {
     height: 500px;
+    padding-bottom: 150px;
+}
+
+.dream-area {
+    background-image: url("images/dream-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
 }
