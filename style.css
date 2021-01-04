@@ -16,7 +16,7 @@ h2 {
     font-size: 40px;
 }
 
-.name-color {
+.orange-highlight {
     color: orange;
 }
 
@@ -55,4 +55,8 @@ section {
     background-image: url("images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.ex {
+    margin-left: 7%;
 }
