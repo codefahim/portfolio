@@ -1,0 +1,47 @@
+@font-face {
+    font-family: myFont;
+    src: url('fonts/Poppins-Regular.woff') format('woff');
+}
+
+body {
+    font-family: myFont, sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name-color {
+    color: orange;
+}
+
+.half-width {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+.half-width a {
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-color: orange;
+    padding: 10px 20px;
+    background-image: linear-gradient( 45deg, lightSalmon, tomato);
+    border-radius: 5px;
+}
+
+.top-bg {
+    background-image: url("images/top-banner.png");
+    background-repeat: no-repeat;
+}
+
+section {
+    height: 500px;
+}
