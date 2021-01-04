@@ -77,10 +77,17 @@ section {
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, Tomato);
     border-image-slice: 1;
+    background-color: white;
 }
 
 #exp {
     border-left: 7px solid;
     border-image: linear-gradient(180deg, blue, cyan);
     border-image-slice: 1;
+}
+
+footer p {
+    text-align: center;
+    color: #b2bec3;
+    font-size: 12px;
 }
